@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "type": "NonFiction",
+    "location": "A10",
+    "author": [
+      {
+        "name": "amos",
+        "nation": "amos"
+      },
+      {
+        "name": "anjay",
+        "nation": "anjay"
+      }
+    ],
+    "classification": "Self-Help",
+    "publisher": "Harper"
+  },
+  {
+    "id": 2,
+    "title": "Spark Joy: Art of Organizing and Tidying Up",
+    "type": "NonFiction",
+    "location": "A11",
+    "author": [
+      {
+        "name": "Marie Kondo",
+        "nation": "Marie Kondo"
+      }
+    ],
+    "classification": "Self-Learn",
+    "publisher": "Ten Speed Press"
+  },
+  {
+    "id": 3,
+    "title": "Mahouka Koukou no Rettousei, Vol. 1: Enrollment Arc",
+    "type": "Fiction",
+    "location": "B01",
+    "author": [
+      {
+        "name": "Tsutomu Sato",
+        "nation": "Tsutomu Sato"
+      },
+      {
+        "name": "Kana Ishida",
+        "nation": "Kana Ishida"
+      }
+    ],
+    "genre": "Light Novel",
+    "volume": 1
+  },
+  {
+    "id": 4,
+    "title": "Boku no Hiro Academia Collection Set",
+    "type": "Fiction",
+    "location": "B02",
+    "author": [
+      {
+        "name": "Kohei Horikoshi",
+        "nation": "Kohei Horikoshi"
+      },
+      {
+        "name": "Hirofumi Neda",
+        "nation": "Hirofumi Neda"
+      }
+    ],
+    "genre": "Manga",
+    "volume": 15
+  },
+  {
+    "id": 5,
+    "title": "Legendary Moonlight Scultptor",
+    "type": "Fiction",
+    "location": "B03",
+    "author": [
+      {
+        "name": "Nam Heesung",
+        "nation": "Nam Heesung"
+      }
+    ],
+    "genre": "Web Novel",
+    "volume": 56
+  },
+  {
+    "id": 7,
+    "title": "majalah bobo",
+    "type": "Fiction",
+    "location": "C04",
+    "author": [
+      {
+        "name": "saya sendiri",
+        "nation": "saya sendiri"
+      }
+    ],
+    "genre": "education",
+    "volume": 1
+  }
+]
